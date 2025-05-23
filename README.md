@@ -66,4 +66,4 @@ future releases. Share your ideas and feedback on our issue tracker.
 
 ---
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/privacysandbox/privacy-sandbox-demos/badge)](https://securityscorecards.dev/viewer/?uri=github.com/privacysandbox/privacy-sandbox-demos)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/privacysandbox/privacy-sandbox-demos/badge)](https://securityscorecards.dev/viewer/?uri=github.com/privacysandbox/privacy-sahttps://github.com/privacysandbox/privacy-sandbox-demos/issues/655ndbox-demos)
